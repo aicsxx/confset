@@ -2,3 +2,5 @@ set nu
 set ts=4
 set expandtab
 set autoindent
+set shiftwidth=4
+set foldmethod=manual
